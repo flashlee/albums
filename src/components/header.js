@@ -13,7 +13,7 @@ const Header = (props) => {
     );
 };
 
-
+//Android doesn't support the shadow styling. Instead of this elevation is used.
 const styles = {
     viewStyle: {
         backgroundColor: '#F8F8F8',
