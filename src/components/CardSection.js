@@ -15,7 +15,7 @@ const styles = {
         padding: 5,
         backgroundColor: '#fff',
         justifyContent: 'flex-start',
-        flexDirection: 'row',
+        flexDirection: 'row',           //determines how to position elements inside (e.g. it can be a column postioning)
         borderColor: '#ddd',
         position: 'relative'
     }
